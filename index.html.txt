@@ -69,7 +69,7 @@
     // === НАСТРОЙКИ ===
     const SPREADSHEET_ID = "1aBcDeFgHiJkLmNoPqRsTuVwXyZ"; // ← замените!
     const SHEET_NAME = "Учет";
-    const SCRIPT_URL = "ВАШ_URL_APPS_SCRIPT"; // ← замените!
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzhENI5f2NvmiFgPx1kHZuUu6dLmlH_F4z7_9qpPEl9EgVy_LaRoS9-7roAx-vyLBsE/exec"; // ← замените!
 
     // Загружаем данные
     async function loadItems() {
@@ -148,4 +148,5 @@
     window.onload = loadItems;
   </script>
 </body>
+
 </html>
