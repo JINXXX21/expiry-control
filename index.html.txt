@@ -67,9 +67,9 @@
 
   <script>
     // === НАСТРОЙКИ ===
-    const SPREADSHEET_ID = "1aBcDeFgHiJkLmNoPqRsTuVwXyZ"; // ← замените!
+    const SPREADSHEET_ID = "1BTenfIMG3N5r2lrQGePyFrjXgQiVUoVb_lgAL1svVNY"; // ← замените!
     const SHEET_NAME = "Учет";
-    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzhENI5f2NvmiFgPx1kHZuUu6dLmlH_F4z7_9qpPEl9EgVy_LaRoS9-7roAx-vyLBsE/exec"; // ← замените!
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwRpEjp_YyH7RpKM6V5ByIefipfT7UGqHylE_xOTEvtb0-7KykBdGY4VGfvKXGHK7vK/exec"; // ← замените!
 
     // Загружаем данные
     async function loadItems() {
@@ -150,4 +150,5 @@
 </body>
 
 </html>
+
 
